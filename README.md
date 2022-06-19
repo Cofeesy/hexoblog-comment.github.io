@@ -1,1 +1,1 @@
-# hexoblog-comment.github.io
+# hexoblog-comment
